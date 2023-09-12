@@ -1,0 +1,12 @@
+using System;
+class HelloWorld {
+  static void Main() {
+    Console.WriteLine("Hello World");
+  }
+}
+
+
+COMMAND PROMPT:
+PATH
+CSC NAME.CS
+NAME
